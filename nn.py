@@ -1,6 +1,4 @@
-No wahala, this one na the *mumu-simple noob version* - as if na you just learn Python yesterday. No big grammar, no f-string too much.
 
-Copy am:
 # 1
 name = "Jedidiah"
 age = 17
